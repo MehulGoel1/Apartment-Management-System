@@ -7,3 +7,6 @@ Login Page
 Resident Page
 ![](https://user-images.githubusercontent.com/35894429/43991700-261991e4-9d90-11e8-99ab-182987cb87f9.jpg)
 ![](https://user-images.githubusercontent.com/35894429/43991686-de7fbf98-9d8f-11e8-94df-601ded5c104e.jpg)
+
+Employee Page
+![](https://user-images.githubusercontent.com/35894429/43991687-dfbde93e-9d8f-11e8-8cf6-ce1514d49239.jpg)
